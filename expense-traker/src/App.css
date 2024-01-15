@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: rgb(8, 16, 16);
+}
+.main-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.center-container{
+  height: 500px;
+  width: 350px;
+}
+.app.heading{
+  padding: 4px;
+  color: white;
+}
+.add-btn{
+  color: white;
+  background-color: black;
+}
+.lost-items{
+color: blanchedalmond;
+}
+.icons{
+  color: rgb(58, 124, 182);
+}
+
+
